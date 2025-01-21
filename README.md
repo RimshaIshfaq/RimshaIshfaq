@@ -1,11 +1,8 @@
-PROFILE
+👋 Hi, I'm Rimsha Ishfaq!
 
-- 👋 Hi, I’m @RimshaIshfaq, I am an Industrial Engineer.
-- 👀 I’m interested in Data analytics, data science, Machine Learning
-- 🌱 I’m currently learning Data science and Machine Learning.
-- 💞️ I’m looking to collaborate on new projects to learn with you.
-- 📫 How to reach me: rimshaishfaqa86@gmail.com
-- Linkedln: www.linkedin.com/in/rimsha-ishfaq-engr
-- ⚡ Fun fact: I also love baking, crocheting, traveling, writing.
+🎓 Industrial Engineer exploring the world of Data Science and Machine Learning.
+📊 Passionate about turning data into insights and collaborating on impactful projects.
+📧 Reach me: rimshaishfaqa86@gmail.com
+💼 LinkedIn: linkedin.com/in/rimsha-ishfaq-engr
 
-
+⚡ Fun fact: I love baking, crocheting, traveling, and writing — creativity fuels my data journey!
