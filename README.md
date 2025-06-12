@@ -8,4 +8,4 @@
 📧 Reach me: [rimshaishfaqa86@gmail.com](mailto:rimshaishfaqa86@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/rimsha-ishfaq-engr](https://www.linkedin.com/in/rimsha-ishfaq-engr)  
 
-⚡ Fun fact: I love baking, crocheting, traveling, and writing too — creativity fuels my data journey!  
+⚡ Fun fact: I love baking, crocheting, and writing too — creativity fuels my data journey!  
