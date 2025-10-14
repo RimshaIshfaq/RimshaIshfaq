@@ -6,14 +6,14 @@ Welcome to my GitHub profile! I’m an Industrial Engineer passionate about soft
 
 🚀 Tech Stack
 
-| Category           | Technologies           |
-| ------------------ | ---------------------- |
-| **Programming**    | Python 🐍 · JavaScript |
-| **Frontend**       | HTML · CSS             |
-| **Backend**        | Node.js · Express      |
-| **Databases**      | MongoDB · MySQL        |
-| **Data/Workflow**  | Apache Airflow         |
-| **Tools & DevOps** | GitHub · Docker        |
+| Category           | Technologies              |
+| ------------------ | ----------------------    |
+| **Programming**    | Python 🐍 · JavaScript   |
+| **Frontend**       | HTML · CSS                |
+| **Backend**        | Node.js · Express         |
+| **Databases**      | MongoDB · MySQL           |
+| **Data/Workflow**  | Apache Airflow            |
+| **Tools & DevOps** | GitHub · Docker . Dagshub |
 
 📌 About Me
 
