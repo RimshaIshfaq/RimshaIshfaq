@@ -19,13 +19,13 @@ Welcome to my GitHub profile! I’m an Industrial Engineer passionate about soft
 
 💡 Constantly learning and exploring new technologies
 
-🏭 I’m an Industrial Engineer transitioning into tech and automation
+💡 I’m an Industrial Engineer transitioning into tech and automation
 
-🤖 Currently exploring AI and Machine Learning to build intelligent solutions
+💡 Currently exploring AI and Machine Learning to build intelligent solutions
 
-⚡ Interested in data engineering, web development, and automation
+💡 Interested in data engineering, web development, and automation
 
-📫 Reach me via GitHub or LinkedIn (www.linkedin.com/in/rimsha-ishfaq-engr) or email (rimshaishfaq86@gmail.com)
+💡 Reach me via GitHub or LinkedIn (www.linkedin.com/in/rimsha-ishfaq-engr) or email (rimshaishfaq86@gmail.com)
 
 🌱 Current Focus
 
@@ -35,6 +35,6 @@ Welcome to my GitHub profile! I’m an Industrial Engineer passionate about soft
 
 💡 Diving deeper into AI/ML models and real-world applications
 
-Diving deeper into AI/ML models and real-world applications
+💡 Diving deeper into AI/ML models and real-world applications
 
 💻 “Code is like humor. When you have to explain it, it’s bad.”
