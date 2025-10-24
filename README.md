@@ -35,6 +35,5 @@ Welcome to my GitHub profile! I’m an Industrial Engineer passionate about soft
 
 💡 Diving deeper into AI/ML models and real-world applications
 
-💡 Diving deeper into AI/ML models and real-world applications
 
 💻 “Code is like humor. When you have to explain it, it’s bad.”
