@@ -50,13 +50,4 @@ I love building projects that blend backend performance with clean and intuitive
 ### ✨ Quote I Live By  
 > 💻 *"Code is like humor — when you have to explain it, it’s bad."*
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimsha-ishfaq&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimsha-ishfaq&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
